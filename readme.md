@@ -31,7 +31,7 @@ A professional-grade Python backtesting framework for moving average crossover t
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/ma-crossover-backtester.git](https://github.com/lluismer/moving-average-backtester)
+git clone https://github.com/lluismer/moving-average-backtester
 cd moving-average-backtester
 
 # Install required packages
