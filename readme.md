@@ -31,8 +31,8 @@ A professional-grade Python backtesting framework for moving average crossover t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ma-crossover-backtester.git
-cd ma-crossover-backtester
+git clone [https://github.com/yourusername/ma-crossover-backtester.git](https://github.com/lluismer/moving-average-backtester)
+cd moving-average-backtester
 
 # Install required packages
 pip install yfinance pandas numpy matplotlib
@@ -159,9 +159,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Author**: Lluis Mercade
-- **Email**: [lluismergo@outlook.com]
-- **LinkedIn**: [lmercade]
-- **GitHub**: [lmergo]
+- **Email**: lluismergo@outlook.com
+- **LinkedIn**: lmercade
+- **GitHub**: lluismer
 
 ---
 
