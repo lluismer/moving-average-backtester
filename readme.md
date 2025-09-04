@@ -35,7 +35,7 @@ git clone https://github.com/lluismer/moving-average-backtester
 cd moving-average-backtester
 
 # Install required packages
-pip install yfinance pandas numpy matplotlib
+pip install yfinance pandas numpy matplotlib inquirer
 ```
 
 ## 📈 Quick Start
