@@ -142,7 +142,6 @@ Max Drawdown = max(Drawdown_t for all t)
 - [ ] Alternative MA types (EMA, WMA)
 - [ ] Multi-asset portfolio backtesting
 - [ ] Machine learning signal enhancement
-- [ ] Real-time trading integration
 
 ## 🤝 Contributing
 
@@ -152,17 +151,9 @@ Max Drawdown = max(Drawdown_t for all t)
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact
 
 - **Author**: Lluis Mercade
 - **Email**: lluismergo@outlook.com
 - **LinkedIn**: lmercade
 - **GitHub**: lluismer
-
----
-
-*Built with Python for quantitative finance applications. Showcasing skills in algorithmic trading, data analysis, and financial modeling.*
